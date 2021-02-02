@@ -1,0 +1,62 @@
+[
+  {
+    "title": "This is How You Lose the Time War",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545755487l/43352954._SX318_.jpg",
+    "author": "Amal El-Mohtar and Max Gladstone",
+    "url": "https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war"
+  },
+  {
+    "title": "East of Eden",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544744853l/4406.jpg",
+    "author": "John Steinbeck",
+    "url": "https://www.goodreads.com/book/show/4406.East_of_Eden"
+  },
+  {
+    "title": "Interpreter of Maladies",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442586143l/5439._SY475_.jpg",
+    "author": "Jhumpa Lahiri",
+    "url": "https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies"
+  },
+  {
+    "title": "The Thousand Autumns of Jacob de Zoet",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320540908l/7141642.jpg",
+    "author": "David Mitchell",
+    "url": "https://www.goodreads.com/book/show/7141642-the-thousand-autumns-of-jacob-de-zoet"
+  },
+  {
+    "title": "The Passionate Programmer",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51m3yzmDFCL._SX331_BO1,204,203,200_.jpg",
+    "author": "Chad Fowler",
+    "url": "https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U"
+  },
+  {
+    "title": "Hatching Twitter",
+    "image": "https://m.media-amazon.com/images/I/51YUkI5ZQ-L.jpg",
+    "author": "Nick Bilton",
+    "url": "https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal-ebook/dp/B00CDUVSQ0"
+  },
+  {
+    "title": "How Google Works",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31Xc+yFta0L._SX327_BO1,204,203,200_.jpg",
+    "author": "Eric Schmidt, Jonathan Rosenberg",
+    "url": "https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328"
+  },
+  {
+    "title": "Elon Musk",
+    "image": "https://m.media-amazon.com/images/I/51tw6UjHpDL.jpg",
+    "author": "Ashlee Vance",
+    "url": "https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS"
+  },
+  {
+    "title": "Six Easy Pieces",
+    "image": "https://m.media-amazon.com/images/I/51E53HCUKVL.jpg",
+    "author": "Richard P. Feynman",
+    "url": "https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained-ebook/dp/B004OVEYNU"
+  },
+  {
+    "title": "Sapiens",
+    "image": "https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg",
+    "author": "Yuval Noah Harari",
+    "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A"
+  }
+]
